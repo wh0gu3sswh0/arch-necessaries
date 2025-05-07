@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/wh0gu3sswh0/arch-package-installer.git
+git clone https://github.com/wh0gu3sswh0/arch-necessaries.git
 cd arch-package-installer
 ```
 
@@ -53,5 +53,5 @@ chmod +x install_packages.py
 - Интернет
 ---
 ## 📬 Обратная связь
-Предложения по наполнению принимаются в [**issues**](https://github.com/wh0gu3sswh0/arch-package-installer/issues).
+Предложения по наполнению принимаются в [**issues**](https://github.com/wh0gu3sswh0/arch-necessaries/issues).
 Технические исправления и/или предложения - в **pull request'ы**
