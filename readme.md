@@ -26,20 +26,20 @@
 ## 🚀 Как использовать?
 
 1. Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/yourusername/arch-package-installer.git
-    cd arch-package-installer
-    ```
+```bash
+git clone https://github.com/yourusername/arch-package-installer.git
+cd arch-package-installer
+```
 
 2. Сделайте скрипт исполняемым:
-    ```bash
-    chmod +x install_packages.py
-    ```
+```bash
+chmod +x install_packages.py
+```
 
 3. Запустите установщик:
-    ```bash
-    ./install_packages.py
-    ```
+```bash
+./install_packages.py
+```
 
 Скрипт автоматически:
 - Обновит систему и установит все официальные пакеты.
